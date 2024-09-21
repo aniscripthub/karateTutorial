@@ -1,0 +1,11 @@
+{
+  "user1": {
+    "userName":"",
+    "userSign": "",
+    "userCred": ""
+  },
+  "user2": {
+    "user": "standard_user",
+    "cred": "secret_sauce"
+  }
+}

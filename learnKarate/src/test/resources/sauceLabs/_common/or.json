@@ -1,0 +1,10 @@
+{
+  "loginPage": {
+    "text_userName": "//input[@data-test='username']",
+    "text_password": "//input[@data-test='password']",
+    "btn_signIn": "//input[@id='login-button']"
+  },
+  "homePage": {
+    "txt_appLogo": "//div[@class='app_logo']"
+  }
+}

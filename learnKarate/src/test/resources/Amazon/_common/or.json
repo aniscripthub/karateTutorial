@@ -1,0 +1,10 @@
+{
+  "homeAmazon": {
+    "input_searchHome": "//input[@id='twotabsearchtextbox']",
+    "btn_searchSubmit": "//input[@id='nav-search-submit-button']",
+    "div_firstResult": "//div[@data-index='2']//div//div//h2//a"
+  },
+  "productPage": {
+    "text_productTitle": "//div[@id='titleSection']//h1//span[@id='productTitle']"
+  }
+}
